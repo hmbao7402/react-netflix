@@ -10,5 +10,4 @@ root.render(
 		<App />
 	</BrowserRouter>
 );
-// STOP AT 02:03:00
-// Link: https://www.youtube.com/watch?v=ATz8wg6sg30 (clone netflix)
+
